@@ -1,4 +1,4 @@
-# rnaseq-simulation-evaluation
+# Sequencing simulation and assembly evaluation
 
 Python scripts corresponding to scientific paper: 
 
